@@ -6,7 +6,7 @@
 
 *En cas d'ex-aequo, les joueurs ayant le même nombre de points font une manche seuls où ils rejouent au même mini-jeux. Dans ce cas cela se règle en une seule manche.*
 
-
+dgt
 
 
 
